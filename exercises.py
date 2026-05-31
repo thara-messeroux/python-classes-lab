@@ -59,7 +59,10 @@ class Game:
 
     def play_game(self):
         print("Welcome to the game!")
-        
+game_instance = Game()
+game_instance.play_game()
+
+
 
 
 
