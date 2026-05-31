@@ -156,7 +156,8 @@ Copy
         # ...repeat until there is a winner or tie
     # Outside the loop, render state at the end of a game
 
-    If you wish to expand on the functionality of your game, try implementing the following user stories:
+
+If you wish to expand on the functionality of your game, try implementing the following user stories:
 
 AAU, at the end of a game, I should be asked if I would like to play again.
 AAU, if I accept the offer to play again, the game should reset and begin again.
